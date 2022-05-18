@@ -1,0 +1,76 @@
+body {
+    background-image: url("images/backg.png");
+}
+h1{
+    font-style: oblique;
+
+}
+p:first-letter{
+    font-size: 30px;
+}
+.bloc1{
+    margin-left: 200px;
+    margin-right: auto;
+    text-align: start;
+    float: left;
+    width: 25em;
+    font-style: oblique
+
+}
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #192b87;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #192b87
+}
+
+.button:active {
+    background-color: #192b87;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+img{
+    border-radius: 8px;
+}
+.bloc2{
+    margin-right: 50px;
+    text-align: start;
+    width: 30em;
+    float: right;
+}
+.button1 {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #192b87;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 9px #999;
+}
+
+.button1:hover {background-color: #192b87
+}
+
+.button1:active {
+    background-color: #192b87;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+
